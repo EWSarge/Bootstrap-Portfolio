@@ -1,0 +1,111 @@
+
+.container {
+    margin: auto;
+    width: 960px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    position: absolute;
+	top:0px;
+	bottom: 0px;
+	left: 0;
+    right: 0;
+    position: relative;
+    
+
+}
+
+
+header {
+    height: 75px;
+    border: 1px solid #777;
+    text-align: center;
+    line-height: 40px;
+    float: left;
+    background-color: #4aaaa5;
+    color: white;
+    width: 280px;
+	top:43px;
+	bottom: 0;
+	left: 275;
+    right: 0;
+    position: relative;
+    
+}
+
+nav {
+    padding: 10px;
+    text-align: right;
+    line-height: 100px;
+    color:  #777777;
+    position: relative;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    right: 280px;
+}
+
+body {
+    background-image: url(seamless_paper_texture.png);
+}
+
+#about-me{
+    position:relative;
+    right: 350px;
+    
+    padding-top: 30px;
+    color: #4aaaa5
+}
+
+#main{
+   
+    text-align: left;
+}
+.body{
+    background-color: white;
+    padding-left:25px;
+    padding-bottom: 25px;
+    padding-right:25px;
+    border: 1px solid #dddddd;
+}
+
+.top{
+    background-color: white;
+    clear: both;
+    width: 100%;
+    position: relative;
+}
+footer{
+    background-color: #666666;
+    border-top: 8px solid #4aaaa5;
+    clear: both;
+  height:50px;
+  width: 100%;  
+}
+img{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    margin: 20px;
+    padding: 20px;
+}
+.column{
+    padding: 20px;
+}
+
+article{
+    background-color: green;
+    position: absolute;
+    width: 150px;
+    height: 20px;
+}
+#image1{
+    position: relative;
+    left: 30px;
+    background-color: green;
+}
+.form-group{
+    text-align:left;
+}
+.btn{
+    position: relative;
+    left: 30px;
+}
